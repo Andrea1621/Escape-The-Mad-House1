@@ -1,5 +1,5 @@
 <h1> Escape The Mad House</>
   
-<p> You use the mouse to help you character escape monsters that come in your way and collect keys and escape the mad house! </p>
+<p>Use the mouse to move the man and collect the hidden keys in the room,Try to avoid the monsters that come in your way, After you collected all the keys you win the game</p>
 
-<img src="escape mad house bk.JPG" width="300" height="300">
+<img src="escape mad house bk.JPG" width="500" height="300">
